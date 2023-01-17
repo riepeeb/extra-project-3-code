@@ -1,0 +1,18 @@
+{
+    "globals": {
+      "Plotly": true,
+      "data": true,
+      "d3": true
+    },
+    "rules": {
+      "arrow-body-style": ["error", "never"]
+    }
+  }
+
+  {
+    "search.exclude": {
+      "**/node_modules": true,
+      "**/es": true,
+      "**/lib": true
+    }
+  }
